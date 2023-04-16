@@ -18,13 +18,14 @@ export default function Portfolio()
             </div>
 
             <div className="popup" id="popup2">
-                <a href="#" className="fa-solid fa-x"></a>
+                <a href="#" className="fa-solid fa-x popup-exit-btn"></a>
                 <div className="popup-inner">
                     <div className="popup-description">
                         <h2>Hemsida till NTS-Profil & Reklam</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto exercitationem
-                            dolores doloremque cum sit nihil maxime, laboriosam impedit, voluptate ullam
-                            perspiciatis? Ex totam sed exercitationem, deserunt mollitia dicta cumque sit!</p>
+                        <p>En responsiv och modern hemsida för att visa upp produkterna/tjänsterna som NTS-Profil & Reklam erbjuder.</p>
+                        <br/>
+                        <p>Hemsidan är uppbyggd helt från grunden med HTML och CSS.</p>
+                        <a href='http://www.nts-reklam.se/' target="_blank">Till hemsidan</a>
                         <div className="popup-btn-ctn">
 
                         </div>
@@ -44,13 +45,13 @@ export default function Portfolio()
             </div>
 
             <div className="popup" id="popup1">
-                <a href="#" className="fa-solid fa-x"></a>
+                <a href="#" className="fa-solid fa-x popup-exit-btn"></a>
                 <div className="popup-inner">
                     <div className="popup-description">
                         <h3>Android app till Enduro-SM</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto exercitationem
-                            dolores doloremque cum sit nihil maxime, laboriosam impedit, voluptate ullam
-                            perspiciatis? Ex totam sed exercitationem, deserunt mollitia dicta cumque sit!</p>
+                        <p>En adroid app som används på enduro-sm som backuptidtagning när det primära tidtagningssystemet fallerar.</p>
+                        <br/>
+                        <p>Appen är byggd med .NET MAUI med blazor som UI</p>
                         <div className="popup-btn-ctn">
                         </div>
                     </div>
@@ -69,13 +70,13 @@ export default function Portfolio()
             </div>
 
             <div className="popup" id="popup3">
-                <a href="#" className="fa-solid fa-x"></a>
+                <a href="#" className="fa-solid fa-x popup-exit-btn"></a>
                 <div className="popup-inner">
                     <div className="popup-description">
                         <h3>Multiplayer spel i Unity</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto exercitationem
-                            dolores doloremque cum sit nihil maxime, laboriosam impedit, voluptate ullam
-                            perspiciatis? Ex totam sed exercitationem, deserunt mollitia dicta cumque sit!</p>
+                        <p>Ett multiplayer mountainbike spel där man kan tävla mot sina vänner om vem som är snabbast ned för berget.</p>
+                        <br/>
+                        <p>Detta är ett pågående hobbyprojekt som byggs i spelmotorn Unity med C# som programmeringsspråk</p>
                         <div className="popup-btn-ctn">
                         </div>
                     </div>

@@ -1,25 +1,15 @@
 export default function About()
 {
-    function EasterEgg()
-    {
-        document.body.style = 'background: blue;';
-    }
-
     return(
         <>
         <h3 className="slidein-left code">About()<br/>{"{"}</h3>
         <br/>
         <h1 className="slidein-right">Om mig</h1>
-        <h2 className="zoomin">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium exercitationem
-            voluptatibus ratione saepe, unde ut voluptatem eum voluptates? Expedita accusamus illum necessitatibus
-            molestias quidem neque perferendis qui nulla porro quibusdam!</h2>
-        <br/>
-        <h2 className="zoomin">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum omnis, veritatis nisi commodi
-            alias minima expedita reiciendis non! Dolorem provident culpa sed perspiciatis odio fugit itaque modi
-            ratione ab aliquam!</h2>
-        <br/>
+        <h2 className="zoomin">Hej mitt namn är Simon! Efter att ha haft programmering som hobby i 7 år tar jag nu steget till professionell Systemutvecklare genom en  tvåårig Yrkeshögskoleutbildning.
+                        Min önskan är att hamna på en arbetsplats där jag med min kreativitet kan vara med och lösa morgondagens problem med hjälp av kod.</h2>
+        
 
-        <h3 className="slidein-left code" onClick={() => EasterEgg()}>{"}"}</h3>
+        <h3 className="slidein-left code">{"}"}</h3>
         </>        
     )
 }

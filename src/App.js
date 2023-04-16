@@ -7,8 +7,7 @@ import About from "./About";
 import Cv from "./Cv";
 import './style.css'
 import Portfolio from "./Portfolio";
-import GithubFeed from "./GithubFeed";
-import PopupEasteregg from "./PopupEasteregg";
+
 
 function App() {  
   return (
@@ -28,11 +27,10 @@ function App() {
             <Route path="/" element={<Home/>} />
             <Route path="/About" element={<About/>} />
             <Route path="/Cv" element={<Cv/>} />
-            <Route path="Portfolio" element={<GithubFeed/>} />
+            <Route path="Portfolio" element={<Portfolio/>} />
           </Routes>
         </div>
         </Router>      
-        <PopupEasteregg></PopupEasteregg>
     </div>
     
   );

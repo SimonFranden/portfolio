@@ -26,26 +26,45 @@ export default function Cv()
                     <h2>Färdigheter</h2>
                     <br/>
                     <h3>Programmering</h3>
-                    <p>C#, .NET, SQL, Javascript</p>
+                    <p>C#, .NET, SQL, Javascript, GIT, HTML/CSS</p>
                     <br/>
-                    <h3>Lorem Ipsum</h3>
-                    <p>Lorem ipsum dolor sit amet.</p>
+                    <h3>Språk</h3>
+                    <p>Svenska, Engelska</p>
                     <br/>
-                    <h3>Lorem Ipsum</h3>
-                    <p>Lorem ipsum dolor sit amet.</p>
+                    <h3>Körkort</h3>
+                    <p>B-körkort</p>
                     <br/>
                 </div>
                 
                 <div className="cv-main-ctn">                   
                                        
                     <h2>Profil</h2>
-                    <p>{cvContent.profile}</p>
+                    <p>
+                        Efter att ha haft programmering som hobby i 7 år tar jag nu steget till professionell Systemutvecklare genom en  två årig Yrkeshögskoleutbildning.
+                        Min önskan är att hamna på en arbetsplats där jag med min kreativitet kan vara med och lösa morgondagens problem med hjälp av kod.
+                    </p>
                     <br/>
                     <h2>Utbildning</h2>
-                    <p>{cvContent.education}</p>
                     <br/>
-                    <h2>Arbetslivserfarenhet</h2>
-                    <p>{cvContent.workXp}</p>
+                    <p>                                      
+                        <b>Yrkeshögskola</b><br/>                
+                        <b>Systemutvecklare .NET Med AI-Kompetens, 405 Yh-poäng, Sundsvall, Edugrade</b><br/>
+                        <small><i>Sep 2022 - Pågående</i></small><br/>
+                        </p>
+                        <br/>
+                        <b>Gymnasie</b><br/>                
+                        <b>El- och Energiprogrammet med inriktning Webbutveckling och Programmering, Sundsvall, NTI-Gymnasiet</b><br/>                   
+                        <small><i>Aug 2014 - Jun 2017</i></small><br/>
+                        <br/>
+                        <h2>Arbetslivserfarenhet</h2>
+                        <br/>
+                    <p>                        
+                        <b>Butiksbiträde på ICA Kvantum</b><br/>
+                        <small><i>Okt 2018 - Aug 2022</i></small><br/>
+                        <br/>
+                        På ICA jobba jag på online avdelningen i ett sammansvetsat team. Huvuduppgifterna var att plocka och leverera mat men det tillkom även en hel del kundsupport och problemlösning.
+                        I den här rollen fick jag mycket erfarenhet av kundkontakt och att jobba i ett team.
+                    </p>
                     <br/>
                 </div>
             </div>           
