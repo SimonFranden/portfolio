@@ -25,6 +25,7 @@ function App() {
         <div class="content-ctn" >
           <Routes>
             <Route path="/" element={<Home/>} />
+            <Route path="/Portfoliosite" element={<Home/>} />
             <Route path="/About" element={<About/>} />
             <Route path="/Cv" element={<Cv/>} />
             <Route path="Portfolio" element={<Portfolio/>} />
