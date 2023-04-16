@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bfaf09a0.css",
-    "main.js": "/portfolio/static/js/main.6d9deab2.js",
-    "static/media/mtb-game.jpg": "/portfolio/static/media/mtb-game.278abbe352c2e52e4ee3.jpg",
-    "static/media/nts-reklam.png": "/portfolio/static/media/nts-reklam.96395fb15d7d2a1690f8.png",
-    "static/media/profile.png": "/portfolio/static/media/profile.56eac41c72c6fd3a541c.png",
-    "static/media/backapp.png": "/portfolio/static/media/backapp.a1d957b5b85f119fb4e7.png",
-    "index.html": "/portfolio/index.html",
-    "main.bfaf09a0.css.map": "/portfolio/static/css/main.bfaf09a0.css.map",
-    "main.6d9deab2.js.map": "/portfolio/static/js/main.6d9deab2.js.map"
+    "main.css": "/portfoliosite/static/css/main.bfaf09a0.css",
+    "main.js": "/portfoliosite/static/js/main.842ec4e9.js",
+    "static/media/mtb-game.jpg": "/portfoliosite/static/media/mtb-game.278abbe352c2e52e4ee3.jpg",
+    "static/media/nts-reklam.png": "/portfoliosite/static/media/nts-reklam.96395fb15d7d2a1690f8.png",
+    "static/media/profile.png": "/portfoliosite/static/media/profile.56eac41c72c6fd3a541c.png",
+    "static/media/backapp.png": "/portfoliosite/static/media/backapp.a1d957b5b85f119fb4e7.png",
+    "index.html": "/portfoliosite/index.html",
+    "main.bfaf09a0.css.map": "/portfoliosite/static/css/main.bfaf09a0.css.map",
+    "main.842ec4e9.js.map": "/portfoliosite/static/js/main.842ec4e9.js.map"
   },
   "entrypoints": [
     "static/css/main.bfaf09a0.css",
-    "static/js/main.6d9deab2.js"
+    "static/js/main.842ec4e9.js"
   ]
 }
